@@ -1,0 +1,8 @@
+version: '3'
+services:
+    go:
+        build:
+            context: ./go
+        volumes:
+            - ./app:/app
+        tty: true
