@@ -14,7 +14,7 @@ var (
 )
 
 func main() {
-		if len(os.Args) < 2 {
+	if len(os.Args) < 2 {
 		fp = os.Stdin
 	} else {
 		fp, err = os.Open(os.Args[1])
