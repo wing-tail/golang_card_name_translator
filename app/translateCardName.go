@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"os"
+	"net/url"
 	"net/http"
 	"github.com/PuerkitoBio/goquery"
 )
@@ -28,7 +29,7 @@ func main() {
 	scanner := bufio.NewScanner(fp)
 	for scanner.Scan() {
 		card_name_jp := scanner.Text()
-		url := prefix + card_name_jp
+		url := prefix + url.PathEscape(card_name_jp)
 		res, err := http.Get(url)
 		if err != nil {
 			fmt.Println(err)

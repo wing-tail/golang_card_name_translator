@@ -21,13 +21,13 @@
 忠臣/Loyal Retainers
 再誕の宣言/Proclamation of Rebirth
 生命の息吹/Breath of Life
-蘇生の天使/Angelic Renewal
+蘇生/Resurrection
 砂の殉教者/Martyr of Sands
 安らぎ/Peace of Mind
 活力回復/Revitalize
 機を見た援軍/Timely Reinforcements
 新たな信仰/Renewed Faith
-献身的な補充兵/Ardent Recruit
+補充/Replenish
 アカデミーの学長/Academy Rector
 霊体の地滑り/Astral Slide
 独房監禁/Solitary Confinement
@@ -38,9 +38,9 @@
 剥奪/Deprive
 冷静な反論/Stoic Rebuttal
 禁止/Forbid
-放逐する僧侶/Banisher Priest
+計算された放逐/Calculated Dismissal
 否定の契約/Pact of Negation
-勇敢な妨害工作員/Daring Saboteur
+妨害/Thwart
 撃退/Foil
 撹乱する群れ/Disrupting Shoal
 巻き直し/Rewind
@@ -73,12 +73,12 @@
 全能なる者アルカニス/Arcanis the Omnipotent
 精神力/Mind Over Matter
 御霊の復讐/Goryo's Vengeance
-豊穣/Abundance
+Dance of the Dead
 死体発掘/Exhume
-秘蔵の縫合体/Prized Amalgam
+縫合/Stitch Together
 御霊の足跡/Footsteps of the Goryo
 戦慄の復活/Dread Return
-Zombified
+ゾンビ化/Zombify
 湿地での被災/Marsh Casualties
 殴りハエの蔓延/Blowfly Infestation
 悲哀まみれ/Drown in Sorrow
@@ -90,8 +90,8 @@ Zombified
 血のやりとり/Barter in Blood
 困窮/Distress
 呆然/Stupor
-邪悪の暴露/Expose Evil
-憎悪縛りの剥ぎ取り/Flayer of the Hatebound
+暴露/Unmask
+憎悪/Hatred
 肉占い/Sarcomancy
 カーノファージ/Carnophage
 墓所這い/Gravecrawler
@@ -120,16 +120,16 @@ Zombified
 炎呼び、チャンドラ/Chandra, Flamecaller
 ジョークルホープス/Jokulhaups
 絶滅の星/Star of Extinction
-無限の抹消/Infinite Obliteration
+抹消/Obliterate
 冒涜の行動/Blasphemous Act
 彗星の嵐/Comet Storm
 倒壊/Raze
 石の雨/Stone Rain
 溶鉄の雨/Molten Rain
-アカデミーの略奪者/Academy Raider
+夢の略奪者/Dream Pillager
 不毛化/Lay Waste
 地形の融解/Melt Terrain
-地割れのドレイク/Chasm Drake
+取り囲む地割れ/Encircling Fissure
 地獄の口の中/Into the Maw of Hell
 焼けこげた土地/Scorched Earth
 火の玉/Fireball
@@ -198,7 +198,7 @@ Benthic Explorers
 ファイレクシアン・ドレッドノート/Phyrexian Dreadnought
 Candelabra of Tawnos
 通電式キー/Voltaic Key
-全ては成されるべきもの/All in Good Time
+Time Vault
 覚醒の兜/Helm of Awakening
 アシュノッドの供犠台/Ashnod's Altar
 流転の護符/Quicksilver Amulet
@@ -225,7 +225,7 @@ Candelabra of Tawnos
 溶鉄の尖峰、ヴァラクート/Valakut, the Molten Pinnacle
 演劇の舞台/Thespian's Stage
 暗黒の深部/Dark Depths
-業火の侍祭/Acolyte of the Inferno
+The Tabernacle at Pendrell Vale
 Glacial Chasm
 幽霊街/Ghost Quarter
 石灰の池/Calciform Pools
